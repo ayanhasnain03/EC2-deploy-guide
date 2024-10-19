@@ -1,1 +1,1 @@
-Ec2 deployment
+Ec2 deployment.
